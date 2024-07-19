@@ -1,0 +1,43 @@
+.credential-error {
+    color : red
+}
+.input-credential {
+    width : 100%;
+}
+.back-button {
+    position: relative;
+    left : 300px !important;
+    top: 120px !important;
+    color : orange !important;
+    background-color: rgb(33, 32, 32) !important;
+}
+.back-icon {
+    margin-right : 15px;
+}
+.bookings-error {
+    width: 800px;
+    margin-top: 70px;
+    margin-left: 340px;
+}
+.user-profile-title {
+    
+    padding: 1px;
+    text-align: center;
+}
+.user-profile-update-button {
+    margin : 5% 0 !important;
+}
+.app-title {
+    margin: 0 5% !important; 
+    color: white !important;
+}
+.user-name-title {
+    position : relative !important;
+     top : 10px !important;
+     right : 50px !important;
+     color: white !important;
+}
+.upcome-movie-error {
+    width: 400px;
+    margin-left: 450px;
+}
